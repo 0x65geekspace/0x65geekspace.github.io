@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "极客风暴#1 终身大事"
+categories: GeekStorm
+---
+
+在每一名极客的脑子里，都有无数思想火花期待碰撞。极客风暴就是0x65为大家准备的碰撞器。我们约定在每周三的晚上进行线上的极客风暴，以及每周日下午在线下极客风暴。
+
+第一次极客风暴的话题由[Mike][Mike]发起，他正想组织一次Hackthon，他想就Hackthon的主题跟有兴趣的朋友们先讨论一下，看看大家的思路，就算是为Hackthon热身啦。
+
+－ 活动日期: 2014年7月9日
+－ 主题: 怎样更好地帮助适龄青年解决找对象问题
+－ 活动发起人: [Mike Cai][Mike]
+－ 活动参与者: [Ricky][Ricky], [张琰琰][zyy], [Guten Ye][Guten], [Scott][Scott] 
+
+### 结论 ###
+
+[Mike]: https://twitter.com/mikecai
+[zyy]: https://twitter.com
+[Guten]: https://twitter.com
+[Scott]: https://twitter.com
+[Ricky]: https://twitter.com/rickysu
