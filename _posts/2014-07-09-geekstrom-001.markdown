@@ -8,12 +8,11 @@ categories: GeekStorm
 
 第一次极客风暴的话题由[Mike][Mike]发起，他正想组织一次Hackthon，他想就Hackthon的主题跟有兴趣的朋友们先讨论一下，看看大家的思路，就算是为Hackthon热身啦。
 
-－ 活动日期: 2014年7月9日
-－ 主题: 怎样更好地帮助适龄青年解决找对象问题
-－ 活动发起人: [Mike Cai][Mike]
-－ 活动参与者: [Ricky][Ricky], [张琰琰][zyy], [Guten Ye][Guten], [Scott][Scott] 
+- 活动日期: 2014年7月9日
+- 主题: 怎样更好地帮助适龄青年解决找对象问题
+- 活动发起人: [Mike Cai][Mike]
 
-### 结论 ###
+### 风暴结果 ###
 
 [Mike]: https://twitter.com/mikecai
 [zyy]: https://twitter.com
