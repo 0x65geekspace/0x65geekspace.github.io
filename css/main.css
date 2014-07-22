@@ -34,7 +34,6 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
-
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
@@ -407,4 +406,16 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+div #geekstorms-past {
+  width: 70%;
+  float: left;
+}
+div #geekstorms-upcoming {
+  width: 30%;
+  float: left;
+}
+.clear {
+  clear: both;
 }
