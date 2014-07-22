@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "极客风暴#1 终身大事"
+title:  "#1 如何办一次Hackthon"
 categories: GeekStorm
 ---
 
