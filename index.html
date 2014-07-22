@@ -18,11 +18,15 @@ layout: default
   </div>
 
   <div id="geekstorms-upcoming">
-    {% for post in site.categories.upcoming %}
-      <li>
-        <a>{{ post.title }}</a>
-      </li>
-    {% endfor%}
+    <p>Upcoming GeekStorm Events</p>
+    <ul class="posts">
+      {% for post in site.categories.upcoming %}
+        <li>
+          <a>{{ post.title }}</a>
+          <p>{{ post.event-date}}</p>
+        </li>
+      {% endfor%}
+    </ul>
   </div>
   <div class="clear"></div>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
