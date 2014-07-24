@@ -25,7 +25,7 @@ layout: default
     <ul class="posts">
       {% for post in site.categories.upcoming %}
         <li>
-          <a>{{ post.title }}</a>
+          <a class="side-post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <p>{{ post.event-date}}</p>
         </li>
       {% endfor%}
