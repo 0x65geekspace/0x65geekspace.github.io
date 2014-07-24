@@ -10,7 +10,9 @@ layout: default
         <li>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div>
-            <p class="geekstorm-content">{{ post.content  }}</p>
+          {% if post.introduction %}  
+            <p class="geekstorm-introduction">{{ post.introduction }}</p>
+          {% endif %}  
           </div>
         </li>
       {% endfor %}
