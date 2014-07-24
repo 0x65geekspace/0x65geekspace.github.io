@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "极客风暴#1 终身大事"
+title:  "#1 Hackthon"
 categories: GeekStorm
 ---
 
@@ -9,7 +9,7 @@ categories: GeekStorm
 第一次极客风暴的话题由[Mike][Mike]发起，他正想组织一次Hackthon，他想就Hackthon的主题跟有兴趣的朋友们先讨论一下，看看大家的思路，就算是为Hackthon热身啦。
 
 - 活动日期: 2014年7月9日
-- 主题: 怎样更好地帮助适龄青年解决找对象问题
+- 主题: 怎样办一个真正的hackthon
 - 活动发起人: [Mike Cai][Mike]
 
 ### 风暴结果 ###
