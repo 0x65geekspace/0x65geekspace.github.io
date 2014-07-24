@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "#5 智能割草机器人"
-categories: GeekStorm, UpComing
-event-date: 2014-07-23
+title:  "#5 扫地机器人"
+categories: GeekStorm
 ---
-怎样合力做出一个更智能的割草机器人
+扫地机器人进入家庭已经有几年时间了。现在的扫地机器人有什么缺点，可以怎样改进呢？
+
+- 日期: 2014年7月23日
+- 主题: 如何设计更智能的扫地机器人
+- 活动发起人: Airie Zhou
