@@ -34,7 +34,6 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
-
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
@@ -52,17 +51,19 @@ a:visited { color: #205caa; }
 .site-title:visited {
   display: block;
   color: #333;
-  font-size: 26px;
+  font-size: 36px;
   letter-spacing: -1px;
-  float: left;
+  /* float: left; */
   line-height: 56px;
-  position: relative;
+  /* position: relative; */
   z-index: 1;
+  text-align: center;
 }
 
 .site-nav {
-  float: right;
+  /* float: right; */
   line-height: 56px;
+  text-align: center;
 }
 
 .site-nav .menu-icon { display: none; }
@@ -407,4 +408,16 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+div #geekstorms-past {
+  width: 70%;
+  float: left;
+}
+div #geekstorms-upcoming {
+  width: 30%;
+  float: left;
+}
+.clear {
+  clear: both;
 }
