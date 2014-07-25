@@ -9,6 +9,8 @@ event-date: 2014-07-26
 时间：7/26/2014 周六 16:00-18:00
 地点：创智天地Jamaica Blue [点评链接](http://www.dianping.com/shop/5743037)
 
+![](/images/kic-jamaica-blue.png "KIC Jamaica BLue Map")
+
 主题：如何集成社交网络数据做支付安全
 发起人：黄涧石
 
