@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#6 社交网络与支付安全"
-categories: GeekStorm, Upcoming
+categories: GeekStorm Upcoming
 event-date: 2014-07-26
 ---
 前几次极客风暴都是硬件话题偏多，这次我们来换换口味啦。如果有朋友感兴趣也请转发告知。
