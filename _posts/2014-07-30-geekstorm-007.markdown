@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#7 推荐一款你喜欢的产品"
-categories: GeekStorm Upcoming
+categories: GeekStorm
 event-date: 2014-07-30
 ---
 本次极客风暴Online尝试更改以往话题发起人模式为随便聊模式。不需要话题发起人，但是希望每个参与的嘉宾都带上一两件干货，说说你最近想推荐给大家的产品，可以是软件，硬件，网站，书或各种形式，聊聊对产品的理念和对细节的把握，擦擦思维的火花。
