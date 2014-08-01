@@ -3,15 +3,47 @@ layout: post
 title:  "#7 推荐一款你喜欢的产品"
 categories: GeekStorm
 event-date: 2014-07-30
+introduction: "每个参与的嘉宾都带上一两件干货，说说最近想推荐给大家的产品，软件，硬件，网站，书或各种形式，聊聊对产品的理念和对细节的把握，擦擦思维的火花。"
 ---
 本次极客风暴Online尝试更改以往话题发起人模式为随便聊模式。不需要话题发起人，但是希望每个参与的嘉宾都带上一两件干货，说说你最近想推荐给大家的产品，可以是软件，硬件，网站，书或各种形式，聊聊对产品的理念和对细节的把握，擦擦思维的火花。
 
 - 时间：7/30/2014 周三 22:00-23:00
 - 主题：推荐一款你喜欢的产品
 
-任何人都可以报名参加极客风暴Online活动。报名请回复Email给Ricky(sutongqi@gmail.com)，附上Skype和QQ号码。
+## 风暴结果 ##
 
-注意事项：
+### 风车 ###
+- 主页：[https://fengcheco.com/](https://fengcheco.com/)
+- 吸引人的地方：戳中某些用户的痛点，功能不多不少
+- 价格：10元每月 ～ 286元每月。有试用无免费版
 
-1. 参加极客风暴Online请尽量提早5分钟上线，方便测试网络和工具
-2. 使用线上多人语音通讯工具请在没有讲话的时候静音，避免干扰语音质量
+讨论衍生：其它可尝试 [Asana](https://asana.com)
+
+### Sleep Cycle ###
+- 主页：[http://www.sleepcycle.com/](http://www.sleepcycle.com/)
+- 吸引人的地方：被叫醒后精力充沛而不是昏昏沉沉
+- 价格：iOS $0.99
+
+讨论衍生：不拉窗帘早睡早起效果更好
+
+来自被推荐后的反馈：Sleep Cycle 真的很好用
+
+### PicSay ###
+- 主页：[http://www.picsaypro.com/](http://www.picsaypro.com/)
+- 吸引人的地方：对于只需要在照片上做一个标记的人来说，功能不多不少刚好够用。将在手机和电脑间传图片，标记，再传图片，然后发送的多个步骤合并在一起，简单高效。
+- 价格：Google Play $3.99
+
+讨论衍生：类似工具 [skitch](http://evernote.com/skitch/) 做的也不错
+
+### Producthunt ###
+- 主页：[http://www.producthunt.com/](http://www.producthunt.com/)
+- 吸引人的地方：网站idea，内容展示方式和评论展示方式
+
+讨论衍生：获取信息的通道还有[V2EX](http://www.v2ex.com), [ipc.me](http://www.ipc.me) 等
+
+
+### 《拖拉一点也无妨》 ###
+- 主页：[豆瓣](http://book.douban.com/subject/24839553/), [多看](http://www.duokan.com/book/39624), [Amazon](http://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00DMWN5Z0)
+- 吸引人的地方：躺枪
+
+讨论衍生：《奇特的一生》[豆瓣](http://book.douban.com/subject/1115353/)
