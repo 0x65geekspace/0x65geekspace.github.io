@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 关于我们
-permalink: /about/
 ---
 
 0x65是16进制的101，为了纪念101位geek一起创建了她！
