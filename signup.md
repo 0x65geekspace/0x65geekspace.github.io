@@ -23,3 +23,6 @@ title: 申请入会
 
 5. 退款
 如果最后0x65 这个项目很遗憾的失败了， 我会把财务报表里面余下的钱按比例退还给大家。
+
+<script src='https://jinshuju.net/f/ojSYt9/embedded.js?banner=show&height=257'>
+</script>
