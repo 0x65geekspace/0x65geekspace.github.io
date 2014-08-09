@@ -422,3 +422,7 @@ div #geekstorms-upcoming {
 .clear {
   clear: both;
 }
+
+iframe {
+  border: 0;
+}
