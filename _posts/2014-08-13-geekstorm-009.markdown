@@ -9,7 +9,7 @@ event-date: 2014-08-13
 - 主题：IBM TrueNorth 神经元芯片相关讨论
 - 背景：IBM 上周发布 TrueNorth 芯片，这款芯片内置了 4096 个内核，100 万个“神经元”、2.56 亿个“突触”，能力相当于一台超级计算机，功耗却只有 65 毫瓦。它究竟是怎样实现的，架构又是怎样？现在公开的资料并不多，让我们根据现有的资料来随便聊聊。
 
-报名请回复Email给Ricky(sutongqi@gmail.com)。本次参会不需要经验。报名时请说明是积极参加讨论还是主要旁听。
+报名请回复Email给Ricky(sutongqi@gmail.com)。报名时请说明是积极参加讨论还是主要旁听。如果有相关背景也请说明。
 
 相关资料：
 - IBM 官方网站 [Brain Chips](http://www.research.ibm.com/articles/brain-chip.shtml)
