@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "极客风暴#8 社交数据挖掘"
-categories: Upcoming
+categories: GeekStorm
 event-date: 2014-08-02
 ---
 
