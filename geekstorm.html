@@ -7,6 +7,7 @@ layout: default
 
 
     <ul class="posts">
+      <p>往期摘要</p>
       {% for post in site.categories.geekstorm %}
         <li>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

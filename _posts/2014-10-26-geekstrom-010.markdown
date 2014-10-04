@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "#10 基于神经网络的印刷文本识别技术"
+categories: Upcoming
+event-date: 2014-10-26
+---
+
+## 核心讨论点 ##
+1. 如何对图像进行预处理使得图像更容易被识别
+2. 单个字符如何识别
+3. 如何识别公式结构
+
+## 发起人 ##
+卢俊 - [个人信息](http://gurudigger.com/CoderJun)  ( 需要注册GuruDigger之后，方能访问 )
+
+## 计划安排 ##
+时间： 2014年10月26日 1PM - 3PM
+地点： TBA
+
+## 报名方式 ##
+1. 请注册GuruDigger.com,  以及尽可能完善你的个人档案，以方便我们更好的了解你。
+2. 以“报名参加Geek Storming”为邮件主题，把你的个人档案站外分享链接发送给我们，并且附上您想加入本次Geek Storming的原因。
+我们的邮箱地址： mike at gurudigger dot com
