@@ -11,9 +11,9 @@ layout: default
         <li>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div>
-          {% if post.introduction %}  
+          {% if post.introduction %}
             <p class="geekstorm-introduction">{{ post.introduction }}</p>
-          {% endif %}  
+          {% endif %}
           </div>
         </li>
       {% endfor %}
@@ -21,7 +21,8 @@ layout: default
   </div>
 
   <div id="geekstorms-upcoming">
-    <p>Upcoming GeekStorm Events</p>
+
+    <p>下期公告</p>
     <ul class="posts">
       {% for post in site.categories.upcoming %}
         <li>
@@ -30,6 +31,10 @@ layout: default
         </li>
       {% endfor%}
     </ul>
+
+    <h1>关于 Geek Storming</h1>
+    <p>极客风暴（ Geek Storming ）目的是希望帮助那些有志于用技术去改变世界的人，通过我们的渠道找到对于同一件事情，感兴趣并且有过研究的极客，一起产生一些思想上的碰撞，共同去推动这件事情</p>
+
   </div>
   <div class="clear"></div>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
